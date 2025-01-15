@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\bin\Debug\net8.0\ConstructorMetod.exe
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\bin\Debug\net8.0\ConstructorMetod.deps.json
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\bin\Debug\net8.0\ConstructorMetod.runtimeconfig.json
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\bin\Debug\net8.0\ConstructorMetod.dll
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\bin\Debug\net8.0\ConstructorMetod.pdb
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ConstructorMetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ConstructorMetod.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ConstructorMetod.AssemblyInfo.cs
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ConstructorMetod.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ConstructorMetod.dll
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\refint\ConstructorMetod.dll
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ConstructorMetod.pdb
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ConstructorMetod.genruntimeconfig.cache
+C:\Users\caplo\source\repos\ConstructorMetod\ConstructorMetod\obj\Debug\net8.0\ref\ConstructorMetod.dll
